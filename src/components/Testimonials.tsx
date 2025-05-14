@@ -13,30 +13,30 @@ const Testimonials: React.FC = () => {
   const testimonials: Testimonial[] = [
     {
       quote: "This platform has transformed how our company approaches sustainability. We've reduced our carbon footprint by 30% in just one year by implementing the targeted recommendations.",
-      author: "Sarah Johnson",
+      author: "Lorem Ipsum",
       title: "Sustainability Director",
-      organization: "TechForward Inc.",
+      organization: "Test Inc.",
       image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
     },
     {
       quote: "The insights provided by the carbon calculator helped us identify unexpected sources of emissions in our supply chain. The data visualization makes complex information accessible to everyone on our team.",
-      author: "Michael Chen",
+      author: "Dolor Sit",
       title: "Operations Manager",
-      organization: "GreenLogistics",
+      organization: "TestLogistics",
       image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
     },
     {
       quote: "As a small business owner, I was concerned about the cost of going green. This platform showed me how sustainability initiatives could actually save money while reducing our environmental impact.",
-      author: "Amara Rodriguez",
+      author: "Lorem Ipsum",
       title: "CEO",
-      organization: "Conscious Crafts",
+      organization: "Test",
       image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
     },
     {
       quote: "The personalized action plan made it simple for our family to reduce our footprint. My children are now enthusiastic about tracking our progress and suggesting new ways to live more sustainably.",
-      author: "David Nkosi",
+      author: "Dolor Sit",
       title: "Parent & Educator",
-      organization: "GreenHome Initiative",
+      organization: "Test Initiative",
       image: "https://images.pexels.com/photos/834863/pexels-photo-834863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
     }
   ];
