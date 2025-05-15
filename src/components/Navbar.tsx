@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
     { name: 'Take Action', href: '#action' },
     { name: 'Testimonials', href: '#testimonials' },
     { name: 'Contact', href: '#contact' },
-    { name: 'Explore My Other Works', href: 'https://github.com/Templar121', external: true }
+    { name: 'Know more about Me', href: 'https://subhayanmukherjee.netlify.app/', external: true }
   ];
 
   return (
